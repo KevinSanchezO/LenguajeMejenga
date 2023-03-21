@@ -1,0 +1,17 @@
+piloObando: comentario de funcion
+jugada bifurcar ( numero ) [
+	tiempoRegular ( numero mundialMenor 50 ) [
+		local numero pase ( numero aFavor 50 )
+	]
+	tiempoExtra ( numero mundialMayor 50 ) [
+		local numero pase ( numero enContra 50 )
+	]
+	penales [
+		local numero pase 0
+	]
+	resultado numero
+]
+piloObando: funcion de inicio
+pitidoInicial ( ) [
+	invo bifurcar ( pepe )
+]

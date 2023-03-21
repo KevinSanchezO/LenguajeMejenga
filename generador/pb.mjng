@@ -1,0 +1,11 @@
+piloObando: comentario generico
+visita varPrimer pase 69
+jugada opMatematica ( numero ) [
+	local numeroPrimer pase ( 20 aFavor numero )
+	resultado numeroPrimer
+]
+piloObando: funcion de inicio
+pitidoInicial ( ) [
+	local numeroParametro pase 500
+	invo opMatematica ( numeroParametro )
+]

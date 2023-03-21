@@ -1,0 +1,5 @@
+jugada repetidor ( atributo ) [
+	series ( atributo mundialMayor 30 ) [
+		local numeroPi pase 3.14
+	]
+]

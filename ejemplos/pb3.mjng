@@ -1,0 +1,10 @@
+piloObando: (~~)
+jugada funcion ( atributo ) [
+	series ( atributo mundialMenor 30 ) [
+		local atributo pase ( numero aFavor 1 )
+	]
+	resultado atributo
+]
+pitidoInicial (  ) [
+
+]

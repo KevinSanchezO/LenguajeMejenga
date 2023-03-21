@@ -1,0 +1,14 @@
+piloObando: (~~)
+jugada funcion ( a ) [
+	tiempoRegular ( gol ) [
+		resultado a
+	]
+	penales [
+		local respuesta pase fuera
+		resultado respuesta
+	]
+]
+pitidoInicial ( ) [
+	local valorVerdad pase fuera
+	invo abcd ( valorVerdad )
+]

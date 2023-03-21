@@ -1,0 +1,11 @@
+piloObando: (~Esta función permite darle la vuelta a un texto~)
+visita variable pase 48
+jugada funcion ( valor ) [
+	resultado a
+]
+jugada funcionSeg ( valor ) [
+	resultado b
+]
+pitidoInicial ( ) [
+
+]

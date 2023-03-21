@@ -1,0 +1,17 @@
+piloObando: comentario de funcion
+visita varPrimer pase 69
+jugada bifurcar ( numero ) [
+	local varSegun pase ~ texto ~
+	tiempoRegular ( numero mundialMenor 50 ) [
+		local numeroPRimer pase ( varPrimer aFavor varSegun )
+	]
+	penales [
+		local numeroTer pase 0
+	]
+	resultado numero
+]
+piloObando: funcion de inicio
+pitidoInicial ( ) [
+	local numeroParametro pase 500
+	invo bifurcar ( numeroParametro )
+]

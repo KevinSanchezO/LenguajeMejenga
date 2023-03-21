@@ -1,0 +1,21 @@
+piloObando: comentario de funcion
+visita varPrimer pase 400
+jugada opMatematica ( numero ) [
+	tiempoRegular ( numero mundialMenor 100 ) [
+		local numeroPRimer pase ( 50 aFavor numero )
+	]
+	tiempoExtra ( numero mundialMayor 100 ) [
+		local numeroSeg pase ( 50 enContra numero )
+	]
+	penales [
+		series ( numero mundialMenor 100 ) [
+			local numero pase ( numero aFavor 2 )
+		]
+	]
+	resultado numero
+]
+piloObando: funcion de inicio
+pitidoInicial ( ) [
+	local numeroParametro pase 500
+	invo opMatematica ( numeroParametro )
+]

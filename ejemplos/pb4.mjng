@@ -1,0 +1,7 @@
+piloObando: (~Esta función permite darle la vuelta a un texto~)
+jugada funcion ( valor ) [
+	resultado a
+]
+pitidoInicial ( ) [
+
+]

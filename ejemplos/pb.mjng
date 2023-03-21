@@ -1,0 +1,8 @@
+piloObando: (~~)
+jugada funcion ( a ) [
+	resultado a
+]
+pitidoInicial ( ) [
+	local numero pase
+	invo funcion ( numero )
+]

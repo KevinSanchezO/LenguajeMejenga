@@ -1,0 +1,9 @@
+piloObando: comentario de funcion
+jugada funcionPrueba ( numeracion , numeracionDos ) [
+	resultado numeracion
+]
+piloObando: funcion de inicio
+pitidoInicial ( ) [
+	local numeroPrin pase gol
+	invo funcionPrueba ( numeral , numeralDos )
+]
